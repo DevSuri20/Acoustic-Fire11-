@@ -1,0 +1,6 @@
+{
+  "name": "Acoustic Fire Suppression Log",
+  "description": "A comprehensive dashboard for logging, monitoring, and simulating low-frequency acoustic fire suppression events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
